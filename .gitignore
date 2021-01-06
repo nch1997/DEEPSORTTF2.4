@@ -1,0 +1,7 @@
+*.h5
+*.weights
+/benchmark1.ipynb
+/benchmark2.ipynb
+/benchmark3.ipynb
+/test.ipynb
+/Untitled.ipynb
